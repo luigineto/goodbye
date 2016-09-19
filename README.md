@@ -11,7 +11,7 @@ _This is a simple page that collects goodbyes in many different languages._
 ## Setup/Installation Requirements
 
 * Clone this repository.
-* Open the goodbye.html file with your browser
+* Open the goodbye.html file in your browser.
 
 ## Technologies Used
 
